@@ -30,7 +30,7 @@ $ source venv/bin/activate
 
 The first command creates a virtual environment in the `venv` folder of the current directory.  We recommend using this name, as it will be ignored by git (i.e., we have added it to `.gitignore`).
 
-Any time you open a new shell and wish to work with this repo, you will need to activate it using the second line above.  [If you prefer that the virtual environment be activated automatically any time you enter the directory, you may wish to look into using [direnv](https://direnv.net/) or a similar tool.]
+Any time you open a new shell and wish to work with this repo, you will need to activate it using the second line above.  (If you prefer that the virtual environment be activated automatically any time you enter the directory, you may wish to look into using [direnv](https://direnv.net/) or a similar tool.)
 
 ### Option 2: conda (recommended only if it is your tool of choice)
 
@@ -52,7 +52,18 @@ All of the packages needed for this tutorial can be installed by running:
 $ pip install -r requirements.txt
 ```
 
-## 5. Using Jupyter Notebooks
+## 5. Verify your installation
+
+Run the `hello_world.py` script to verify your installation:
+
+```shell script
+python3 ./hello_world.py
+```
+
+This script will prompt you for your IBM Quantum token, unless you had previously saved it on disk.
+Once finished, the script will print `Hello, World!`. It may take a minute or two for the script to complete.
+
+## 6. Using Jupyter Notebooks
 
 Jupyter should already be installed into the virtual environment if you ran the command in the previous step.
 
