@@ -4,7 +4,7 @@ Materials for the SciPy 2022 tutorial on Qiskit Runtime
 
 ## Installation
 
-Instructions for installing packages for this tutorial can be found in [`INSTALL.md`](INSTALL.md)
+Installation instructions for this tutorial can be found in [`INSTALL.md`](INSTALL.md)
 
 ## About this Tutorial
 
