@@ -4,7 +4,7 @@ Materials for the SciPy 2022 tutorial on Qiskit Runtime
 
 ## Installation
 
-Instructions for installing packages for this tutorial are found in [`INSTALL.md`](INSTALL.md)
+Instructions for installing packages for this tutorial can be found in [`INSTALL.md`](INSTALL.md)
 
 ## About this Tutorial
 
@@ -14,7 +14,7 @@ This tutorial targets developers and researchers who want to leverage quantum co
 
 ## Resouces
 
-More info about Qiskit Runtime in the [documentation](https://qiskit.org/documentation/partners/qiskit_ibm_runtime/).
+More info about Qiskit Runtime can be found in the [documentation](https://qiskit.org/documentation/partners/qiskit_ibm_runtime/).
 
 ## Speakers
 
