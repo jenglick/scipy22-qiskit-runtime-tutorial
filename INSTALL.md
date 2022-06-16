@@ -54,7 +54,7 @@ $ pip install -r requirements.txt
 
 ## 5. Verify your installation
 
-Run the `hello_world.py` script to verify your installation:
+Run the [`hello_world.py`](docs/hello_world.py) script to verify your installation:
 
 ```shell script
 $ python3 ./hello_world.py
@@ -75,4 +75,4 @@ $ jupyter notebook
 
 Make sure the notebook server is started from the same Python environment (venv or conda) from which you ran `pip install -r requirements.txt`; otherwise, it may not find this repo in the path.
 
-Once the notebook server starts, it will provide a URL for accessing it through your web browser.  To find the tutorial notebooks, navigate in the browser to `docs` and then `tutorials`.
+Once the notebook server starts, it will provide a URL for accessing it through your web browser.  The tutorial notebooks can be found in the [docs directory](docs/tutorials/README.md).
