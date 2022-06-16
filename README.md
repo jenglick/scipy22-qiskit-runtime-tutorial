@@ -14,11 +14,11 @@ This tutorial targets developers and researchers who want to leverage quantum co
 
 ## Documentation
 
-Tutorials are located in the [documentation directory](docs/tutorials/README.me).
+Tutorials are located in the [documentation directory](docs/tutorials/README.md).
 
-## Resouces
+## Resources
 
-More info about Qiskit Runtime can be found in the [documentation](https://qiskit.org/documentation/partners/qiskit_ibm_runtime/).
+More info about Qiskit Runtime can be found in the [Qiskit documentation](https://qiskit.org/documentation/partners/qiskit_ibm_runtime/).
 
 ## Speakers
 
