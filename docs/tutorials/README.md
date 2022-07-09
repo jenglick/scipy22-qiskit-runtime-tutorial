@@ -4,7 +4,7 @@
 
 - [Sampling and Expectation Values](Part1_Sampling_ExpectationValues_EXERCISE.ipynb) (introduction plus **exercises**)
 
-  - [A solution](Part1_Sampling_ExpectationValues_EXERCISE-Solution.ipynb)
+  - [A solution...](Part1_Sampling_ExpectationValues_EXERCISE-Solution.ipynb)
 
 ## Part 2: Introduction to Qiskit Runtime
 
@@ -16,8 +16,8 @@
 
 - [Optimization Application with Qiskit Runtime](Part3_VQA_Optimization_EXERCISE.ipynb) (**exercise**)
 
-  - [A solution](Part3_VQA_Optimization_EXERCISE-Solution.ipynb)
+  - [A solution...](Part3_VQA_Optimization_EXERCISE-Solution.ipynb)
 
 - [Chemistry Application with Qiskit Runtime](Part3_VQA_Chemistry_EXERCISE.ipynb) (**exercise**)
 
-  - [A solution](Part3_VQA_Chemistry_EXERCISE-Solution.ipynb)
+  - [A solution...](Part3_VQA_Chemistry_EXERCISE-Solution.ipynb)
