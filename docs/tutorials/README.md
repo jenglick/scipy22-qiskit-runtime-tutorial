@@ -10,6 +10,8 @@
 
 - [Qiskit Runtime](Part2_Qiskit_Runtime_EXERCISE.ipynb) (introduction plus **exercise**)
 
+  - [A solution...](Part2_Qiskit_Runtime_EXERCISE-Solution.ipynb)
+
 ## Part 3: Building Applications with Qiskit Runtime
 
 - [Variational Quantum Algorithms with Qiskit Runtime](Part3_VQA_generic.ipynb) (introduction)
