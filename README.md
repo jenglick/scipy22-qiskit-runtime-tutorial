@@ -14,7 +14,7 @@ This tutorial targets developers and researchers who want to leverage quantum co
 
 ## Documentation
 
-Tutorials are located in the [documentation directory](docs/tutorials/README.md).
+Tutorials and presentation slides are located in the [documentation directory](docs/).
 
 ## Resources
 
