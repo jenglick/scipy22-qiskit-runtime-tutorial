@@ -1,6 +1,6 @@
 # Scipy 2022 Qiskit Runtime Tutorial
 
-Materials for the SciPy 2022 tutorial on Qiskit Runtime
+Materials for the [SciPy 2022 tutorial on Qiskit Runtime](https://www.scipy2022.scipy.org/).
 
 ## Installation
 
@@ -14,7 +14,7 @@ This tutorial targets developers and researchers who want to leverage quantum co
 
 ## Documentation
 
-Tutorials are located in the [documentation directory](docs/tutorials/README.md).
+Tutorials and presentation slides are located in the [documentation directory](docs/).
 
 ## Resources
 
